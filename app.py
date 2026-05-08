@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Kalkulator PPh 21", page_icon="🧮", layout="centered")
+st.set_page_config(page_title="Kalkulator PPh21 Bebas", page_icon="🧮", layout="centered")
 
 st.title("🧮 Kalkulator PPh 21 Pekerjaan Bebas")
 st.caption("Berdasarkan PMK No. 101/PMK.010/2016 | Tarif UU HPP 2021")
